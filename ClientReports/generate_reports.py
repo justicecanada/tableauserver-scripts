@@ -86,11 +86,7 @@ def initialize_tableau_server(
     tableau_auth = TSC.TableauAuth(username, password, site)
     server = TSC.Server(f"https://{server}.justice.gc.ca")
     server.version = "3.14"
-    # server.use_server_version()
     server.add_http_options({"verify": False})
-    # print(
-    #     f"Connected to Tableau server {server.server_address} with username {username} and site {site}"
-    # )
     return server, tableau_auth
 
 
@@ -204,7 +200,7 @@ def merge_pdfs(root_dir: str | None, language: str):
                 merger.write(output_path)
                 merger.close()
 
-                logging.info(f"Merged PDFs for {client} into {output_path}")
+                logging.info(f"Merged PDF for {client} into {output_path}")
 
             except Exception as e:
                 logging.error(f"Error merging PDFs for {client}: {e}")
