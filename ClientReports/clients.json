@@ -1,0 +1,436 @@
+{"Clients": [
+  {
+    "CmrNumber": "11",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "FPCC",
+    "ClientNameShortFR": "CPAC"
+  },
+  {
+    "CmrNumber": "52",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "JLT",
+    "ClientNameShortFR": "JLT"
+  },
+  {
+    "CmrNumber": "73",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "IAAC",
+    "ClientNameShortFR": "AEIC"
+  },
+  {
+    "CmrNumber": "120",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "CED",
+    "ClientNameShortFR": "DEC"
+  },
+  {
+    "CmrNumber": "230",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "ACOA",
+    "ClientNameShortFR": "APECA"
+  },
+  {
+    "CmrNumber": "331",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "COBU",
+    "ClientNameShortFR": "BUCO"
+  },
+  {
+    "CmrNumber": "335",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "CIPO",
+    "ClientNameShortFR": "OPIC"
+  },
+  {
+    "CmrNumber": "336",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "OSB",
+    "ClientNameShortFR": "BSF"
+  },
+  {
+    "CmrNumber": "350",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "NRC",
+    "ClientNameShortFR": "CNRC"
+  },
+  {
+    "CmrNumber": "440",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "PrairiesCan",
+    "ClientNameShortFR": "PrairiesCan"
+  },
+  {
+    "CmrNumber": "540",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "StatCan",
+    "ClientNameShortFR": "StatCan"
+  },
+  {
+    "CmrNumber": "780",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "CanNor",
+    "ClientNameShortFR": "CanNor"
+  },
+  {
+    "CmrNumber": "1090",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "PMPRB",
+    "ClientNameShortFR": "CEPMB"
+  },
+  {
+    "CmrNumber": "1190",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "CSA",
+    "ClientNameShortFR": "ASC"
+  },
+  {
+    "CmrNumber": "1240",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "PC",
+    "ClientNameShortFR": "PC"
+  },
+  {
+    "CmrNumber": "1330",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "CGC",
+    "ClientNameShortFR": "CCG"
+  },
+  {
+    "CmrNumber": "1360",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "CFIA",
+    "ClientNameShortFR": "ACIA"
+  },
+  {
+    "CmrNumber": "1420",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "INFC",
+    "ClientNameShortFR": "INFC"
+  },
+  {
+    "CmrNumber": "1450",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "LAC",
+    "ClientNameShortFR": "BAC"
+  },
+  {
+    "CmrNumber": "1480",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "PHAC",
+    "ClientNameShortFR": "ASPC"
+  },
+  {
+    "CmrNumber": "1630",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "SSC",
+    "ClientNameShortFR": "SPC"
+  },
+  {
+    "CmrNumber": "1700",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "ATSSC",
+    "ClientNameShortFR": "SCDATA"
+  },
+  {
+    "CmrNumber": "2000",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "FedNor",
+    "ClientNameShortFR": "FedNor"
+  },
+  {
+    "CmrNumber": "2400",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "PacifiCan",
+    "ClientNameShortFR": "PacifiCan"
+  },
+  {
+    "CmrNumber": "10",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "AAFC",
+    "ClientNameShortFR": "AAC"
+  },
+  {
+    "CmrNumber": "50",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "GAC",
+    "ClientNameShortFR": "AMC"
+  },
+  {
+    "CmrNumber": "70",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "ECCC",
+    "ClientNameShortFR": "ECCC"
+  },
+  {
+    "CmrNumber": "140",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "ESDC",
+    "ClientNameShortFR": "EDSC"
+  },
+  {
+    "CmrNumber": "210",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "VAC",
+    "ClientNameShortFR": "ACC"
+  },
+  {
+    "CmrNumber": "220",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "HC",
+    "ClientNameShortFR": "SC"
+  },
+  {
+    "CmrNumber": "330",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "ISED",
+    "ClientNameShortFR": "ISDE"
+  },
+  {
+    "CmrNumber": "340",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "TC",
+    "ClientNameShortFR": "TC"
+  },
+  {
+    "CmrNumber": "410",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "NRCan",
+    "ClientNameShortFR": "RNCan"
+  },
+  {
+    "CmrNumber": "860",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "DFO",
+    "ClientNameShortFR": "MPO"
+  },
+  {
+    "CmrNumber": "1270",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "PSPC",
+    "ClientNameShortFR": "SPAC"
+  },
+  {
+    "CmrNumber": "1350",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "PCH",
+    "ClientNameShortFR": "PCH"
+  },
+  {
+    "CmrNumber": "1900",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "WAGE",
+    "ClientNameShortFR": "FEGC"
+  },
+  {
+    "CmrNumber": "1990",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "ASC",
+    "ClientNameShortFR": "NAC"
+  },
+  {
+    "CmrNumber": "5070",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "JCCBI",
+    "ClientNameShortFR": "PJCCI"
+  },
+  {
+    "CmrNumber": "5160",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "DCC",
+    "ClientNameShortFR": "CDC"
+  },
+  {
+    "CmrNumber": "5200",
+    "PortfolioShortEN": "BRLP",
+    "PortfolioShortFR": "PDADR",
+    "ClientNameShortEN": "NCC",
+    "ClientNameShortFR": "CCN"
+  },
+  {
+    "CmrNumber": "40",
+    "PortfolioShortEN": "CAP",
+    "PortfolioShortFR": "POC",
+    "ClientNameShortEN": "PSC",
+    "ClientNameShortFR": "CFP"
+  },
+  {
+    "CmrNumber": "51",
+    "PortfolioShortEN": "PSDI",
+    "PortfolioShortFR": "SPDI",
+    "ClientNameShortEN": "PPTC",
+    "ClientNameShortFR": "PPTC"
+  },
+  {
+    "CmrNumber": "60",
+    "PortfolioShortEN": "CAP",
+    "PortfolioShortFR": "POC",
+    "ClientNameShortEN": "FIN",
+    "ClientNameShortFR": "FIN"
+  },
+  {
+    "CmrNumber": "110",
+    "PortfolioShortEN": "CAP",
+    "PortfolioShortFR": "POC",
+    "ClientNameShortEN": "OSFI",
+    "ClientNameShortFR": "BSIF"
+  },
+  {
+    "CmrNumber": "180",
+    "PortfolioShortEN": "PSDI",
+    "PortfolioShortFR": "SPDI",
+    "ClientNameShortEN": "DND",
+    "ClientNameShortFR": "MDN"
+  },
+  {
+    "CmrNumber": "250",
+    "PortfolioShortEN": "JUS",
+    "PortfolioShortFR": "JUS",
+    "ClientNameShortEN": "PCO",
+    "ClientNameShortFR": "BCP"
+  },
+  {
+    "CmrNumber": "300",
+    "PortfolioShortEN": "PSDI",
+    "PortfolioShortFR": "SPDI",
+    "ClientNameShortEN": "RCMP",
+    "ClientNameShortFR": "GRC"
+  },
+  {
+    "CmrNumber": "420",
+    "PortfolioShortEN": "IRRP",
+    "PortfolioShortFR": "PDRA",
+    "ClientNameShortEN": "CIRNAC",
+    "ClientNameShortFR": "RCAANC"
+  },
+  {
+    "CmrNumber": "500",
+    "PortfolioShortEN": "PSDI",
+    "PortfolioShortFR": "SPDI",
+    "ClientNameShortEN": "IRCC",
+    "ClientNameShortFR": "IRCC"
+  },
+  {
+    "CmrNumber": "530",
+    "PortfolioShortEN": "PSDI",
+    "PortfolioShortFR": "SPDI",
+    "ClientNameShortEN": "CSC",
+    "ClientNameShortFR": "SCC"
+  },
+  {
+    "CmrNumber": "560",
+    "PortfolioShortEN": "CAP",
+    "PortfolioShortFR": "POC",
+    "ClientNameShortEN": "TBS",
+    "ClientNameShortFR": "SCT"
+  },
+  {
+    "CmrNumber": "570",
+    "PortfolioShortEN": "PSDI",
+    "PortfolioShortFR": "SPDI",
+    "ClientNameShortEN": "PBC",
+    "ClientNameShortFR": "CLCC"
+  },
+  {
+    "CmrNumber": "850",
+    "PortfolioShortEN": "PSDI",
+    "PortfolioShortFR": "SPDI",
+    "ClientNameShortEN": "CBSA",
+    "ClientNameShortFR": "ASFC"
+  },
+  {
+    "CmrNumber": "880",
+    "PortfolioShortEN": "PSDI",
+    "PortfolioShortFR": "SPDI",
+    "ClientNameShortEN": "PS",
+    "ClientNameShortFR": "SP"
+  },
+  {
+    "CmrNumber": "950",
+    "PortfolioShortEN": "PSDI",
+    "PortfolioShortFR": "SPDI",
+    "ClientNameShortEN": "NSLAG",
+    "ClientNameShortFR": "GLCSN"
+  },
+  {
+    "CmrNumber": "1300",
+    "PortfolioShortEN": "TLS",
+    "PortfolioShortFR": "SDF",
+    "ClientNameShortEN": "CRA",
+    "ClientNameShortFR": "ARC"
+  },
+  {
+    "CmrNumber": "1390",
+    "PortfolioShortEN": "CAP",
+    "PortfolioShortFR": "POC",
+    "ClientNameShortEN": "FINTRAC",
+    "ClientNameShortFR": "CANAFE"
+  },
+  {
+    "CmrNumber": "1410",
+    "PortfolioShortEN": "CAP",
+    "PortfolioShortFR": "POC",
+    "ClientNameShortEN": "FCAC",
+    "ClientNameShortFR": "ACFC"
+  },
+  {
+    "CmrNumber": "1650",
+    "PortfolioShortEN": "PSDI",
+    "PortfolioShortFR": "SPDI",
+    "ClientNameShortEN": "CSEC",
+    "ClientNameShortFR": "CSTC"
+  },
+  {
+    "CmrNumber": "1710",
+    "PortfolioShortEN": "IRRP",
+    "PortfolioShortFR": "PDRA",
+    "ClientNameShortEN": "POLAR",
+    "ClientNameShortFR": "POLAIRE"
+  },
+  {
+    "CmrNumber": "130",
+    "PortfolioShortEN": "JUS",
+    "PortfolioShortFR": "JUS",
+    "ClientNameShortEN": "JUS",
+    "ClientNameShortFR": "JUS"
+  }
+]}

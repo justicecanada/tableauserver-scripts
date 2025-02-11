@@ -1,0 +1,2 @@
+tableauserverclient==0.36
+PyPDF2==3.0.1
